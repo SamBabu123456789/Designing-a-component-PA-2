@@ -1,7 +1,7 @@
 // write button card here
 import React from 'react'
 
-const button = () => {
+const Button = () => {
   return (
     <div>
       <button>View product</button>
@@ -9,4 +9,4 @@ const button = () => {
   )
 }
 
-export default button
+export default Button
